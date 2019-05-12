@@ -1,0 +1,21 @@
+{
+  "name": "svelte-branding",
+  "version": "1.1.0",
+  "description": "Logos and Logotypes in different formats for @sveltejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sveltejs/branding.git"
+  },
+  "keywords": [
+    "UI",
+    "framework",
+    "templates",
+    "templating"
+  ],
+  "author": "Rich Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sveltejs/branding/issues"
+  },
+  "homepage": "https://github.com/sveltejs/branding#README"
+}
