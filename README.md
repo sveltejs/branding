@@ -8,4 +8,4 @@
 
 3. Usage of the Svelte logo must not give the impression or implication that the Svelte project (or any contributor to the project) is sponsoring or endorsing any other project, service, product or organization.
 
-4. Usage of the Svelte logo, to indicate, imply or assert compatability or operability with the Svelte library, must be accurate and done in good-faith.
+4. Usage of the Svelte logo, to indicate, imply or assert compatibility or operability with the Svelte library, must be accurate and done in good faith.
