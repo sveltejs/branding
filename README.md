@@ -1,5 +1,11 @@
 # Svelte Branding Guidelines
 
-Usage of Svelte assets must avoid confusion that Svelte or its projects are sponsoring or endorsing any other product, service, or organization.
+## Conditions of usage
 
-Additionally, any use of a mark to make an assertion of compatibility must, of course, be accurate.
+1. The term "Svelte logo" refers to the Svelte logo and other official artwork/mark. It also includes the official color scheme used by the project.
+
+2. The term "Svelte library" refers to the Svelte library, official projects in the Svelte ecosystem and associated tooling.
+
+3. Usage of the Svelte logo must not give the impression or implication that the Svelte project (or any contributor to the project) is sponsoring or endorsing any other project, service, product or organization.
+
+4. Usage of the Svelte logo, to indicate, imply or assert compatability or operability with the Svelte library, must be accurate and done in good-faith.
